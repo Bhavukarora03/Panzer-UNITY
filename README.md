@@ -17,7 +17,8 @@ Team members:-
   
 Ranked 452 in graphics out of 1800 entries. Made in 3 days
 
-<img src"https://i.imgur.com/pqWvYLP.png"/>  <img src"https://i.imgur.com/OtiqX1t.png"/>
+<img src="https://i.imgur.com/pqWvYLP.png"/>  <img src="https://i.imgur.com/OtiqX1t.png"/>
+<img src=""/>
 
 
 
