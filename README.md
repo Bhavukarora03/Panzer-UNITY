@@ -4,7 +4,7 @@
 
 ### Description - Windows game called 'Panzer' which is a survival game . You are stuck in a tank in outer space and your objective is to destroy as many golems as possible!  Made For Brackeys Game Jam. 
 
-### > Link -> http://gg.gg/panzergame  
+> ## Link -> http://gg.gg/panzergame  
 
 
 platform : pc .  
