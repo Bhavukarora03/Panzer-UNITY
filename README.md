@@ -7,13 +7,13 @@
 > ## Link -> http://gg.gg/panzergame  
 
 
-* ## Platform : pc .  
-* ## Engine : c# (unity engine)
+* #### Platform : Windows 7/8/10/11 
+* #### Engine : c# (unity engine)
 
 Team members:-
-	* Shivansh Ahuja - Programmer
-	* Harsh Pal - 3D Artist
-	* Bhavuk Arora - UI/UX Designer
+* Shivansh Ahuja - Programmer
+* Harsh Pal - 3D Artist
+* Bhavuk Arora - UI/UX Designer
   
 Ranked 452 in graphics out of 1800 entries. Made in 3 days
 
